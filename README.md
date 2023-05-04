@@ -36,3 +36,8 @@ Esta implementación ha sido probada usando JUnit. Para ejecutar las pruebas, si
 
 mvn test
 
+Diagrama UML
+![DiagramUML](https://user-images.githubusercontent.com/119308526/236158780-53826a98-5947-4570-b9b6-37b0fc54bca3.png)
+
+
+
