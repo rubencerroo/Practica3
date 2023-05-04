@@ -1,7 +1,5 @@
 Práctica 3: Implementación de Grafos
 Este repositorio contiene la implementación de una clase para grafos no dirigidos en Java utilizando la estructura de datos Map. Además, se incluye una clase de prueba utilizando JUnit.
-Práctica 3: Implementación de Grafos
-Este repositorio contiene la implementación de una clase para grafos no dirigidos en Java utilizando la estructura de datos Map. Además, se incluye una clase de prueba utilizando JUnit.
 
 Contenido del repositorio
 El repositorio contiene los siguientes archivos:
