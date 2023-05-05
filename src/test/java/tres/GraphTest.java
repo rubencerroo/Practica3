@@ -31,6 +31,6 @@ public class GraphTest {
         expectedPath.add(4);
         // Se comprueba si el camino devuelto es igual al esperado.
         assertEquals(expectedPath, g.onePath(1, 4));
-        System.out.println(g);
+        
     }
 }
