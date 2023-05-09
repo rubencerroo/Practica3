@@ -25,16 +25,6 @@ La clase Graph proporciona los siguientes métodos para manipular grafos:
 
 Para utilizar la clase Graph, simplemente hay que crear una instancia de la misma y llamar a los métodos apropiados.
 
-## ***Análisis de complejidad:***
-
-A continuación, se muestra el análisis de complejidad de los métodos implementados en la clase Graph.
-
-- **addVertex(V v)**: tiene una complejidad de O(1) en el peor caso.
-- **addEdge(V v1, V v2)**: tiene una complejidad de O(1) en el peor caso.
-- **obtainAdjacents(V v)**: tiene una complejidad de O(1) en el peor caso.
-- **containsVertex(V v)**: tiene una complejidad de O(1) en el peor caso.
-- **onePath(V v1, V v2)**: utiliza el algoritmo de búsqueda en anchura, el cual tiene una complejidad de O(|V| + |E|) en el peor caso, donde |V| es el número de vértices y |E| es el número de aristas del grafo.
-
 ## *Testing*
 
 Esta implementación ha sido probada usando JUnit. Para ejecutar las pruebas, simplemente ejecute el siguiente comando:
